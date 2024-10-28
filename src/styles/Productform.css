@@ -1,0 +1,18 @@
+#foormi {
+    margin: 2em;
+    padding: 0.5em;
+    background-color: lightblue;
+}
+
+h2 {
+    font-family: "Comic Sans MS";
+    color: blue;
+}
+
+label {
+    margin: 2em;
+}
+
+button {
+    margin: 2em;
+}
